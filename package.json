@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "fastify": "^3.29.0",
+    "generate-password": "^1.7.0",
+    "node-telegram-bot-api": "^0.57.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
